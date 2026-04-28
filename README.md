@@ -12,8 +12,12 @@ This project highlights hands-on data center lab experience completed during my 
 - Ensured system uptime and hardware reliability
 
 ### Server Break/Fix & Diagnostics
+
 - Diagnosed and resolved hardware-related issues
 - Performed troubleshooting on enterprise servers
+- Identified faulty components and supported replacement procedures
+- Used systematic troubleshooting methods to isolate failures
+- Verified system functionality after repair
 
 ### Remote Management (iDRAC & LCC)
 - Configured iDRAC for remote server access
