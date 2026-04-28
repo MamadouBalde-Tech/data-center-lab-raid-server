@@ -13,12 +13,9 @@ This project highlights hands-on data center lab experience completed during my 
 - Ensured system uptime and hardware reliability
 - Installed and connected power supply units (PSUs)
 
-- 
 ## 📸 Screenshots
 
 ![Server Hardware](server-hardware.png)
-
-![BIOS Config](bios-config.png)
 
 ### Server Break/Fix & Diagnostics
 
@@ -39,6 +36,8 @@ This project highlights hands-on data center lab experience completed during my 
 - Configured RAID 1 and RAID 5 for redundancy and performance
 - Verified storage integrity and fault tolerance
 - Managed disk configurations using RAID controller
+  - ## 📸 Screenshots
+- ![RAID](RAID.png)
 
 ### Network Isolation & Testing
 
