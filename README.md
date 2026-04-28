@@ -53,6 +53,6 @@ This project highlights hands-on data center lab experience completed during my 
 
 ## 📸 Screenshots
 
-![Server Hardware](Screen Shot 2026-04-27 at 7.50.30 PM.png)
+![Server Hardware](server-hardware.png)
 
-![BIOS Config](Screen Shot 2026-04-27 at 7.51.16 PM.png)
+![BIOS Config](bios-config.png)
