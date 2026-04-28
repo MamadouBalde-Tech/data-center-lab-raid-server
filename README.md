@@ -25,6 +25,8 @@ This project highlights hands-on data center lab experience completed during my 
 - Diagnosed and resolved hardware-related issues
 - Performed troubleshooting on enterprise servers
 - Identified faulty components and supported replacement procedures
+- ## 📸 Screenshots
+- ![Server Break](ServerBreak.png)
 
 ### Remote Management (iDRAC & LCC)
 
