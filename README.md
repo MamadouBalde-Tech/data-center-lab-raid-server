@@ -49,3 +49,9 @@ This project highlights hands-on data center lab experience completed during my 
 - Problem-solving in high-availability environments
 
 ---
+
+
+## 📸 Screenshots
+
+![Server Hardware](Screen Shot 2026-04-27 at 7.50.30 PM.png)
+![BIOS Config](Screen Shot 2026-04-27 at 7.51.16 PM.png)
