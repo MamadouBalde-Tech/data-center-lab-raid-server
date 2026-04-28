@@ -45,6 +45,11 @@ This project highlights hands-on data center lab experience completed during my 
 - Troubleshot connectivity and system failures
 - Verified system connectivity after testing
 
+  *Example of network testing using iPerf3 during lab exercise*
+
+    - ## 📸 Screenshots
+- ![ip](ip.png)
+
 ### Dell Server Diagnostics
 
 - Conducted diagnostic testing on Dell PowerEdge R630 servers
