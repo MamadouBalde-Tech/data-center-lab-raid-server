@@ -13,6 +13,13 @@ This project highlights hands-on data center lab experience completed during my 
 - Ensured system uptime and hardware reliability
 - Installed and connected power supply units (PSUs)
 
+- 
+## 📸 Screenshots
+
+![Server Hardware](server-hardware.png)
+
+![BIOS Config](bios-config.png)
+
 ### Server Break/Fix & Diagnostics
 
 - Diagnosed and resolved hardware-related issues
@@ -63,8 +70,3 @@ This project highlights hands-on data center lab experience completed during my 
 ---
 
 
-## 📸 Screenshots
-
-![Server Hardware](server-hardware.png)
-
-![BIOS Config](bios-config.png)
