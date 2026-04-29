@@ -55,6 +55,8 @@ This project highlights hands-on data center lab experience completed during my 
 - Conducted diagnostic testing on Dell PowerEdge R630 servers
 - Identified and resolved hardware and system issues
 - Used built-in diagnostic tools for troubleshooting
+    - ## 📸 Screenshots
+- ![Dell](Dell.png)
 
 ---
 
