@@ -74,6 +74,7 @@ This project highlights hands-on data center lab experience completed during my 
 - Remote server management
 - Data center diagnostics and testing
 - Problem-solving in high-availability environments
+- Data center best practices
 
 ---
 
